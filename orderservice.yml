@@ -22,7 +22,7 @@ notification-service:
 
 # Configuration for the User Service
 user-service:
-  base-url: http://localhost:8080
+  base-url: http://localhost:8086
 
 # Kafka configuration (if required for event publishing)
 kafka:
